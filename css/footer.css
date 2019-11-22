@@ -1,0 +1,37 @@
+footer{
+    
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+   
+}
+
+.card{
+    background-color: #181717; 
+}
+
+.footer-btn-primary {
+    color: #fff;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.footer-card-title{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20pt;
+    margin-left: 6.5rem;
+}
+
+h6{
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 16pt;
+    text-align: right;
+    margin-right: 5rem;
+}
+
+.footer-card{
+    border-radius: 0;
+}
+
